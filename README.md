@@ -234,8 +234,9 @@ Any Claude model available on Vertex AI or the Anthropic API (configurable via
 
 ## Maintainers
 
-Built and maintained by [**GipsyChef**](https://github.com/GipsyChef). Contributions
-welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) and [MAINTAINERS.md](MAINTAINERS.md).
+Built and maintained by **Yoni Ryabinski** ([@GipsyChef](https://github.com/GipsyChef) ·
+[yoniryabinski.com](https://yoniryabinski.com)). Contributions welcome — see
+[CONTRIBUTING.md](CONTRIBUTING.md) and [MAINTAINERS.md](MAINTAINERS.md).
 
 ---
 

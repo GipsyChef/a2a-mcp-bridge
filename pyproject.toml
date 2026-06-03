@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = "Apache-2.0"
 license-files = ["LICENSE"]
-authors = [{ name = "GipsyChef", email = "cigan1@gmail.com" }]
+authors = [{ name = "Yoni Ryabinski", email = "cigan1@gmail.com" }]
 keywords = [
     "a2a",
     "agent2agent",
@@ -58,6 +58,7 @@ Repository = "https://github.com/GipsyChef/a2a-mcp-bridge"
 Documentation = "https://github.com/GipsyChef/a2a-mcp-bridge#readme"
 Issues = "https://github.com/GipsyChef/a2a-mcp-bridge/issues"
 Changelog = "https://github.com/GipsyChef/a2a-mcp-bridge/blob/main/CHANGELOG.md"
+Author = "https://yoniryabinski.com"
 
 [project.scripts]
 a2a-mcp-bridge = "a2a_mcp_bridge.demo:main"

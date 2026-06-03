@@ -7,8 +7,10 @@ abstract: >-
   reference implementation and MCP skill for Claude Code, Codex, and opencode.
 type: software
 authors:
-  - name: "GipsyChef"
-    website: "https://github.com/GipsyChef"
+  - given-names: "Yoni"
+    family-names: "Ryabinski"
+    alias: "GipsyChef"
+    website: "https://yoniryabinski.com"
 license: Apache-2.0
 repository-code: "https://github.com/GipsyChef/a2a-mcp-bridge"
 url: "https://github.com/GipsyChef/a2a-mcp-bridge"
